@@ -2,6 +2,11 @@
 name = "lhe"
 version = "0.1.0"
 authors = ["Hajime Fukuda <hajime.fukuda@me.com>"]
+repository = "https://github.com/hajifkd/lhe-rs"
+keywords = ["particle-physics"]
+license = "MIT"
+readme = "README.md"
+description = "A tiny library to parse Les Houches Event Files in Rust."
 
 [dependencies]
 xml-rs = "0.7"
